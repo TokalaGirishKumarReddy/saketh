@@ -3,6 +3,5 @@ def swap(a,b):
     print(a,b)
 a=5
 print(a)
-b=a
 b=b+2
 print(a,b)
